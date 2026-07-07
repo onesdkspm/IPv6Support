@@ -32,8 +32,8 @@ let package = Package(
         // ========== Binary Frameworks ==========
         .binaryTarget(
             name: "IPv6Support",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/IPv6Support/2.0.0/IPv6Support.xcframework.zip",
-            checksum: "f558676d79dcadffc7860590674d6982057f822d8641f1d0960e46960c6f9e91"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/IPv6Support/2.0.2/IPv6Support.xcframework.zip",
+            checksum: "8ccd2b4ebfc6eb038cee3c87675ee04345e3cdb9a525c6fedd120e8adba576ae"
         )
     ]
 )
